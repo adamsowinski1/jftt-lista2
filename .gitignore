@@ -1,0 +1,12 @@
+# Pliki wygenerowane podczas kompilacji
+build/
+*.o
+*.exe
+lex.yy.c
+lex.yy.cpp
+
+# Pliki tymczasowe
+*~
+*.swp
+__pycache__/
+*.pyc
